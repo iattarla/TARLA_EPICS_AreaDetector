@@ -1,0 +1,9 @@
+# PV for Changing Camera
+# Ali Can CANBAY 08/01/2020
+
+record(stringin, "13ARV1:ChangeCam"){
+	field(DESC,"Changing Camera")
+}
+record(stringin, "13ARV1:Status"){
+	field(DESC,"Status of Camera")
+}
