@@ -1,8 +1,8 @@
-#Scripts written for the EPICS AreaDetector module used to control CCD cameras on the TARLA beamline.
+# Scripts written for the EPICS AreaDetector module used to control CCD cameras on the TARLA beamline.
 
 This project has been prepared with the software referenced below to be used in TARLA control systems.
 
-##References
+## References
 
 1. Baumer VLG-20M Features,
 https://www.baumer.com/medias/__secure__/Baumer_VLG_20M_I_DS_EN.pdf?
